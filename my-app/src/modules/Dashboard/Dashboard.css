@@ -1,0 +1,12 @@
+.dashContainer {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.dashLink{
+    font-size: 14px;
+    color: #3f51b5;
+    font-weight: 700;
+    text-decoration: none;
+}
